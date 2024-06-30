@@ -1,0 +1,41 @@
+fieldset{
+    height:140vh;
+    width:55vw;
+  }
+  .Heading{
+     font-weight: bold;
+  }
+  span{
+   color:red;
+  }
+  h6{
+    font-size: medium;
+  }
+  .col{
+    font-size: medium;
+  }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+   button{
+    display: grid;
+    font-size: larger;
+    padding: 10px;
+   }
+   textarea{
+    display: grid;
+    padding: 10px;
+    width: 550px;
+    height: 50px;
+
+   }
+   .table{
+    padding: 10px;
+    width: 580px;
+    height: 50px;
+    grid-row: auto;
+   }
+   /* .row{
+    width:100px ;
+    
+   } */
